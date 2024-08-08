@@ -14,6 +14,10 @@ Collect acupuncture operation videos from acupuncturists with over 15 years of e
 - Hospital wards
 - Clinics
 - Various lighting conditions
+- ![Image Description](scenario1.jpg)
+- ![Image Description](scenario2.jpg)
+- ![Image Description](scenario3.png)
+
 
 ## 2、Needle Segmentation Dataset Creation
 
