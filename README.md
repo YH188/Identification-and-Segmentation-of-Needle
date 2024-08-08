@@ -17,7 +17,7 @@ Collect acupuncture operation videos from acupuncturists with over 15 years of e
 - <div style="display: flex; justify-content: space-around;">
     <img src="scenario1.jpg" alt="scenario1" width="250"/>
     <img src="scenario2.jpg" alt="scenario2" width="250"/>
-    <img src="scenario3.png" alt="scenario3" height="250"/>
+    <img src="scenario3.png" alt="scenario3" height="200"/>
 </div>
 
 
