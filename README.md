@@ -33,6 +33,7 @@ Create a needle segmentation dataset using two methods:
 ### (2) Automated Segmentation
 - Use Meta AI's SAM (Segment Anything Model) through an interactive segmentation method.
 - Based on point prompts, select the region around the point prompt as the segmentation result for the target object.
+- <img src="sam1.png" alt="Automated Segmentation" width="400"/>
 
 ### Conversion to COCO Format
 - Convert the annotated data into the COCO dataset format required for neural networks.
