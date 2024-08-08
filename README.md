@@ -33,7 +33,7 @@ Create a needle segmentation dataset using two methods:
 ### (2) Automated Segmentation
 - Use Meta AI's SAM (Segment Anything Model) through an interactive segmentation method.
 - Based on point prompts, select the region around the point prompt as the segmentation result for the target object.
-- <img src="sam1.png" alt="Automated Segmentation" width="400"/>
+- <img src="sam1.png" alt="Automated Segmentation" width="600"/>
 
 ### Conversion to COCO Format
 - Convert the annotated data into the COCO dataset format required for neural networks.
@@ -41,3 +41,9 @@ Create a needle segmentation dataset using two methods:
 ## 3、Model Training and Evaluation
 - Train the model within the MASK-RCNN network embedded with FPN.
 - Successfully detect acupuncture needles in various scenarios.
+
+## 4、Viewing Results
+
+To see the needle detection and segmentation results, please open the `work_dirs` folder or download and view `predictions-only_needle.mp4`.
+
+
