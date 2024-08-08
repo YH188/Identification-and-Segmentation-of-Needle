@@ -19,11 +19,11 @@ Collect acupuncture operation videos from acupuncturists with over 15 years of e
 
 Create a needle segmentation dataset using two methods:
 
-### 1. Manual Segmentation
+### (1) Manual Segmentation
 - Utilize segmentation tools to annotate each frame of the video.
 - Generate masks for the needles.
 
-### 2. Automated Segmentation
+### (2) Automated Segmentation
 - Use Meta AI's SAM (Segment Anything Model) through an interactive segmentation method.
 - Based on point prompts, select the region around the point prompt as the segmentation result for the target object.
 
