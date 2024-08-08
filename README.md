@@ -15,8 +15,8 @@ Collect acupuncture operation videos from acupuncturists with over 15 years of e
 - Clinics
 - Various lighting conditions
 - <div style="display: flex; justify-content: space-around;">
-    <img src="scenario1.jpg" alt="scenario1" width="260"/>
-    <img src="scenario2.jpg" alt="scenario2" width="260"/>
+    <img src="scenario1.jpg" alt="scenario1" width="270"/>
+    <img src="scenario2.jpg" alt="scenario2" width="270"/>
     <img src="scenario3.png" alt="scenario3" height="200"/>
 </div>
 
